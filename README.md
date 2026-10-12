@@ -22,3 +22,5 @@ My first Git and GitHub project, where I practise the basics step by step.
 
 Nedjem Benlatreche
 
+## Contact
+GitHub: benlatrech8-prog
