@@ -3,4 +3,3 @@ I am learning Git
 This is my third line 
 This line was written om Github
 This line is only on the new-idea branch 
-This line is not ready yet 
